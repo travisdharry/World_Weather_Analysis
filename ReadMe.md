@@ -11,14 +11,14 @@ A travel company requested we create a program that could help their customers f
 
 ## Summary
 We generated a list of latitude and longitude coordinates and found nearby cities using Citypy. Then we used OpenWeatherMap's API to find current weather conditions for each location. Using Google Maps we generated a world map with markers displaying the weather conditions across the globe.
-\n
+
 ![Vacation Map](Vacation_Search/Weatherpy_Vacation_Map.png)
-\n
+
 Then we selected four cities based on our desired temperature range and used GoogleDirections API to find a route between them.
-\n
+
 ![Travel Map](Vacation_Itinerary/Weatherpy_travel_map.png)
-\n
+
 Finally, we located hotels in those cities using Google Maps and displayed them on markers.
-\n
+
 ![Travel map Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-\n
+
