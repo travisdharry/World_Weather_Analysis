@@ -16,9 +16,9 @@ We generated a list of latitude and longitude coordinates and found nearby citie
 
 Then we selected four cities based on our desired temperature range and used GoogleDirections API to find a route between them.
 
-![Travel Map](Vacation_Itinerary/Weatherpy_travel_map.png)
+![Travel Map](Vacation_Itenerary/Weatherpy_travel_map.png)
 
 Finally, we located hotels in those cities using Google Maps and displayed them on markers.
 
-![Travel map Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Travel map Markers](Vacation_Itenerary/WeatherPy_travel_map_markers.png)
 
